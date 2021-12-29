@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
+// test branch policy
 namespace TailSpin.SpaceGame.Web
 {
     public class Program
